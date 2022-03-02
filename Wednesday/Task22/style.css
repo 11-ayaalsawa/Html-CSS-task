@@ -1,0 +1,32 @@
+h1 {background-color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 98%;
+}
+
+p {font-family: serif;}
+
+
+ p span {text-transform: uppercase;}
+
+ div {height: 400px;
+    width: 400px;
+     
+    
+    background-image: url("https://assets.pokemon.com/static2/_ui/img/og-default-image.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+div p {color: red; 
+text-align: center;
+font-size: large;}
+
+a{ color: rgb(1, 1, 207);}
+
+#po {font-weight: bolder;
+font-family:fantasy;}
+
+ul {font-weight: bold;}
+
