@@ -1,0 +1,22 @@
+
+
+
+div {background-color: green;
+    height: 100px;
+    width: 100px;
+     box-sizing: border-box;
+     border: 2px black solid;
+     display:inline-block;
+
+}
+
+.y {background-color: yellow;
+    margin-bottom: 40px;
+    
+   
+}
+
+.d {margin-bottom: 80px;
+
+    
+}
