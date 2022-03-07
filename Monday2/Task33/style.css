@@ -1,0 +1,56 @@
+.div {
+border: 15px burlywood solid;
+display: flex;
+flex-direction: row;
+width: 1000px;
+height: 500px;
+flex-wrap: wrap;
+}
+
+.div div{
+    width: 250px;
+    height: 150px;
+    color: white;
+    font-size: 600%;
+    padding-top: 17px;
+    text-align: center;
+    
+   
+    
+
+}
+
+
+.div div:nth-child(1) {
+    background-color:aquamarine;
+}
+
+.div div:nth-child(2) {
+    background-color: cornflowerblue;
+}
+
+.div div:nth-child(3) {
+    background-color: blueviolet;
+}
+.div div:nth-child(4) {
+    background-color: darkslategray;
+}
+
+.div div:nth-child(5) {
+    background-color: gold;
+}
+.div div:nth-child(6) {
+    background-color: salmon;
+}
+.div div:nth-child(7) {
+    background-color: rgb(228, 100, 57);
+}
+.div div:nth-child(8) {
+    background-color: gainsboro;
+}
+.div div:nth-child(9) {
+    background-color: lightgreen;
+}
+.div div:nth-child(10) {
+    background-color: mediumseagreen;
+}

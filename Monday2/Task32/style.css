@@ -1,0 +1,35 @@
+.div {width: 900px;
+    height: 500px;
+    display: grid;
+   grid-row: 6;
+   grid-column: repeat (6, 200px);
+    column-gap: 15px;
+    row-gap: 15px;
+  
+    
+
+
+}
+
+
+
+
+.div div:nth-child(1) {background-color: black;
+    grid-area: 1/1/1/7;
+}
+
+.div div:nth-child(2){
+    background-color: orange;
+    grid-area: 2/1/4/5;
+    
+}
+
+.div div:nth-child(3){
+    background-color: green;
+    grid-area: 2/5/4/7;
+}
+
+.div div:nth-child(4) {
+    background-color: blue;
+    grid-area: 4/1/6/7;
+}
