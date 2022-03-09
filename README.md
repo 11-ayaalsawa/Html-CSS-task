@@ -15,4 +15,3 @@ Skills:  HTML / CSS / problem solving skills
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/aya-alsawa-26bb74232/)  
 
-![this is my image](C:\Users\dell\Html-CSS-task\6afc6029-dd5c-42e5-9635-7af535e2df0a.jpg)
