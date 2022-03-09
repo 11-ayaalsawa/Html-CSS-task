@@ -2,7 +2,9 @@ div {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    border: 5px solid burlywood;
+   
+    width: 100%;
+   
     
    
   
@@ -12,12 +14,13 @@ div {
 
 .div div {
     height: 1000px;
-    width: 500px;
+    width: 90px;
     color: white;
     font-size: 600%;
     padding-left: 60px;
     padding-top: 20px;
-    margin: auto;
+    border: 5px solid burlywood;
+    
   
     
 
